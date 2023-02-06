@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/button_pressed.ogg-2af14134edb79e163ce453732c6cae86.oggstr"
+
+[deps]
+
+source_file="res://features/intro/sounds/button_pressed.ogg"
+dest_files=[ "res://.import/button_pressed.ogg-2af14134edb79e163ce453732c6cae86.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
